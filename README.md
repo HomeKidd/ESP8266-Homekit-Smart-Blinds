@@ -40,7 +40,8 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 **Demo:**
 
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/iosw.gif" class="center" width="250"/>
+
+[![DEMO](http://img.youtube.com/vi/kqPzY2s9m0E/0.jpg)](http://www.youtube.com/watch?v=kqPzY2s9m0E)
 
 <br/>
 <br/>
