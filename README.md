@@ -26,7 +26,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Auto Mode _(based on Light Sensor reading)_ 
 * Button Control _(Fully Closing / Opening Blinds via Button Press)_
 * [BH1750](https://s.click.aliexpress.com/e/_dTwkemh) Light sensor
-* ~~Adjusting End Stop~~ _(Currently no available yet)_
+* ~~Adjusting End Stop~~ _(Currently not available yet)_
 * Reset button 
 
 
