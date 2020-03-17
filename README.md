@@ -17,7 +17,6 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 **Please note that for this Project a [3D Printer](https://s.click.aliexpress.com/e/_siadIH) is ESSENTIAL!** 
 
-**This HomeKit enabled Smart Blind Controller is based on [this project](https://www.candco.com.au/2019/03/10/diy-vertical-or-horizontal-blinds-automation-project/)!** 
 
 
 
@@ -30,6 +29,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * ~~Adjusting End Stop~~ _(Currently not available yet)_
 * Reset button 
 
+**This HomeKit enabled Smart Blind Controller is based on [this project](https://www.candco.com.au/2019/03/10/diy-vertical-or-horizontal-blinds-automation-project/)!** 
 
 
 <br/>
