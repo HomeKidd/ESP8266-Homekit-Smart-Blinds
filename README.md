@@ -12,6 +12,7 @@ ESP8266 based  HomeKit Smart Blind Controller for Vertical and Venetian Blind
 <br/>
 <br/>
 
+## This project is still in development so currently not fully working and some parts (PCB, 3D printed parts) are missing yet!
 
 For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-Homekit-Smart-Blinds/wiki/Build-Instructions) Wiki page!<br/><br/>
 
